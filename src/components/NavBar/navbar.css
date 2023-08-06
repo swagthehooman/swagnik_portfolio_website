@@ -1,0 +1,31 @@
+nav{
+    position: fixed;
+    right: 2rem;
+    top: 50%;
+    transform: translateY(-50%);
+    border: #6e6a6a 1px solid;
+    border-radius: 2rem;
+}
+
+.navbar> ul{    
+    padding: 1rem;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+.nav-button{
+    color: #ffe6bc;
+    background-color: transparent;
+    cursor: pointer;
+    text-align: left;
+}
+
+@media (max-width: 1000px){
+    nav{
+        display: none;
+    }
+}
