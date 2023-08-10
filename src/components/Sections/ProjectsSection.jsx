@@ -13,7 +13,7 @@ export default function ProjectsSection() {
             <div className="intro_div">
               <p
                 style={{
-                  fontSize: "2rem",
+                  fontSize: "1.5rem",
                   fontWeight: "700",
                 }}
               >
@@ -43,7 +43,7 @@ export default function ProjectsSection() {
             <div className="intro_div">
               <p
                 style={{
-                  fontSize: "2rem",
+                  fontSize: "1.5rem",
                   fontWeight: "700",
                 }}
               >
@@ -73,7 +73,7 @@ export default function ProjectsSection() {
             <div className="intro_div">
               <p
                 style={{
-                  fontSize: "2rem",
+                  fontSize: "1.5rem",
                   fontWeight: "700",
                 }}
               >
@@ -103,7 +103,7 @@ export default function ProjectsSection() {
             <div className="intro_div">
               <p
                 style={{
-                  fontSize: "2rem",
+                  fontSize: "1.5rem",
                   fontWeight: "700",
                 }}
               >
@@ -126,7 +126,7 @@ export default function ProjectsSection() {
             <div className="intro_div">
               <p
                 style={{
-                  fontSize: "2rem",
+                  fontSize: "1.5rem",
                   fontWeight: "700",
                 }}
               >
@@ -156,7 +156,7 @@ export default function ProjectsSection() {
             <div className="intro_div">
               <p
                 style={{
-                  fontSize: "2rem",
+                  fontSize: "1.5rem",
                   fontWeight: "700",
                 }}
               >
@@ -179,7 +179,7 @@ export default function ProjectsSection() {
             <div className="intro_div">
               <p
                 style={{
-                  fontSize: "2rem",
+                  fontSize: "1.5rem",
                   fontWeight: "700",
                 }}
               >

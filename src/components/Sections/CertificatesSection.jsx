@@ -13,7 +13,7 @@ export default function CertificatesSection() {
           <div className="project-tile">
             <p
               style={{
-                fontSize: "2rem",
+                fontSize: "1.5rem",
                 fontWeight: "700",
                 margin: "2rem 0 1rem 0",
               }}
@@ -34,7 +34,7 @@ export default function CertificatesSection() {
           <div className="project-tile">
             <p
               style={{
-                fontSize: "2rem",
+                fontSize: "1.5rem",
                 fontWeight: "700",
                 margin: "5rem 0 1rem 0",
               }}
@@ -55,7 +55,7 @@ export default function CertificatesSection() {
           <div className="project-tile">
             <p
               style={{
-                fontSize: "2rem",
+                fontSize: "1.5rem",
                 fontWeight: "700",
                 margin: "5rem 0 1rem 0",
               }}
@@ -76,7 +76,7 @@ export default function CertificatesSection() {
           <div className="project-tile">
             <p
               style={{
-                fontSize: "2rem",
+                fontSize: "1.5rem",
                 fontWeight: "700",
                 margin: "5rem 0 1rem 0",
               }}
@@ -97,7 +97,7 @@ export default function CertificatesSection() {
           <div className="project-tile">
             <p
               style={{
-                fontSize: "2rem",
+                fontSize: "1.5rem",
                 fontWeight: "700",
                 margin: "5rem 0 1rem 0",
               }}
@@ -118,7 +118,7 @@ export default function CertificatesSection() {
           <div className="project-tile">
             <p
               style={{
-                fontSize: "2rem",
+                fontSize: "1.5rem",
                 fontWeight: "700",
                 margin: "5rem 0 1rem 0",
               }}
@@ -139,7 +139,7 @@ export default function CertificatesSection() {
           <div className="project-tile">
             <p
               style={{
-                fontSize: "2rem",
+                fontSize: "1.5rem",
                 fontWeight: "700",
                 margin: "5rem 0 1rem 0",
               }}
@@ -160,7 +160,7 @@ export default function CertificatesSection() {
           <div className="project-tile">
             <p
               style={{
-                fontSize: "2rem",
+                fontSize: "1.5rem",
                 fontWeight: "700",
                 margin: "5rem 0 1rem 0",
               }}
