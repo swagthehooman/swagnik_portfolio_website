@@ -6,6 +6,7 @@ import SkillSection from "./SkillSection";
 import ProjectsSection from "./ProjectsSection";
 import CertificatesSection from "./CertificatesSection";
 import ContactsSection from "./ContactsSection";
+import { motion } from "framer-motion";
 
 import "./portfolio.css";
 
