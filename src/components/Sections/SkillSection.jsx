@@ -14,6 +14,10 @@ export default function SkillSection() {
             <p>Java</p>
           </div>
           <div className="skill-item">
+            <img src="../assets/icons/spring.png" />
+            <p>Springboot</p>
+          </div>
+          <div className="skill-item">
             <img src="../assets/icons/html_logo.jpeg" />
             <p>HTML 5</p>
           </div>
@@ -22,12 +26,20 @@ export default function SkillSection() {
             <p>CSS 3</p>
           </div>
           <div className="skill-item">
+            <img src="../assets/icons/tailwind_logo.png" />
+            <p>Tailwind CSS</p>
+          </div>
+          <div className="skill-item">
             <img src="../assets/icons/javascript_logo.png" />
             <p>JavaScript</p>
           </div>
           <div className="skill-item">
             <img src="../assets/icons/react_logo.png" />
             <p>React</p>
+          </div>
+          <div className="skill-item">
+            <img src="../assets/icons/next_logo.png" />
+            <p>Next</p>
           </div>
           <div className="skill-item">
             <img src="../assets/icons/nodejs_logo.png" />
@@ -44,6 +56,10 @@ export default function SkillSection() {
           <div className="skill-item">
             <img src="../assets/icons/mongodb_logo.png" />
             <p>MongoDB</p>
+          </div>
+          <div className="skill-item">
+            <img src="../assets/icons/postgres_logo.png" />
+            <p>PostgreSQL</p>
           </div>
           <div className="skill-item">
             <img src="../assets/icons/mysql_logo.png" />

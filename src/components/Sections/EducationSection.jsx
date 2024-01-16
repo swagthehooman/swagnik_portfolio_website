@@ -43,6 +43,43 @@ export default function EducationSection() {
             </div>
           </li>
         </ul>
+        <h3 className="intro">Experience</h3>
+        <ul className="details">
+          <li>
+            <div className="resume-list-item">
+              <p style={{ fontSize: "1.5rem", fontWeight: "700" }}>
+                Intern @ Lexmark International, Kolkata
+              </p>
+              <p style={{ fontSize: "1.2rem", color: "#2ae98d" }}>
+                September 2023 - June 2024
+              </p>
+              <ul>
+                <li>
+                  Worked on an Awarding portal system website, where users can
+                  nominate their collegues for awards.
+                </li>
+                <li>
+                  Implementing Spring Security for authentications, Spring
+                  websocket for integrated chat application and fixing existing
+                  bugs where among my tasks, along with changing the overall
+                  website design to make it attractive and interactive.
+                </li>
+                <li>
+                  Used many 3rd party packages for better user experience.
+                </li>
+                <li>
+                  Currently working as a CRM developer, developing solutions on
+                  Microsoft Dynamics 365.
+                </li>
+                <li>
+                  My daily activities include assisting team members on their
+                  respective sprint features, learning about customizations in
+                  D365 and building solutions for the business.
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ul>
       </div>
     </section>
   );

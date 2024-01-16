@@ -17,6 +17,36 @@ export default function ProjectsSection() {
                   fontWeight: "700",
                 }}
               >
+                Country Glossary
+              </p>
+              <a
+                className="contacts-button"
+                href="https://github.com/swagthehooman/country-glossary"
+                target="_blank"
+              >
+                <p>Github</p>
+              </a>
+              <a
+                className="contacts-button"
+                href="https://country-glossary-swagthehoomans-projects.vercel.app/"
+                target="_blank"
+              >
+                <p>Live site</p>
+              </a>
+            </div>
+            <img
+              className="project_pic"
+              src="../assets/images/countryGlossaryPoster.jpg"
+            ></img>
+          </div>
+          <div className="project_tile">
+            <div className="intro_div">
+              <p
+                style={{
+                  fontSize: "1.5rem",
+                  fontWeight: "700",
+                }}
+              >
                 Todo List
               </p>
               <a
@@ -152,29 +182,7 @@ export default function ProjectsSection() {
               src="../assets/images/TipCalculatorPoster.png"
             ></img>
           </div>
-          <div className="project_tile">
-            <div className="intro_div">
-              <p
-                style={{
-                  fontSize: "1.5rem",
-                  fontWeight: "700",
-                }}
-              >
-                Chatting App Java
-              </p>
-              <a
-                className="contacts-button"
-                href="https://github.com/swagthehooman/ChatAppJava"
-                target="_blank"
-              >
-                <p>Github</p>
-              </a>
-            </div>
-            <img
-              className="project_pic"
-              src="../assets/images/chatAppJavaPoster.png"
-            ></img>
-          </div>
+
           <div className="project_tile">
             <div className="intro_div">
               <p

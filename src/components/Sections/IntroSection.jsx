@@ -20,7 +20,7 @@ export default function IntroSection() {
           as per the requirements.
         </p>
         <a
-          href="https://drive.google.com/file/d/1Rrh_0TA4HSMWw7-zzkduSUM15sxzBRTH/view?usp=sharing"
+          href="https://drive.google.com/file/d/13vj_cWxYUxAoLtNUKEFM0EyX5636lcO7/view?usp=sharing"
           target="_blank"
         >
           <button id="project-button">Resume</button>
