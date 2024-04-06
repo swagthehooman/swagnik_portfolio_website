@@ -51,7 +51,7 @@ export default function EducationSection() {
                 Intern @ Lexmark International, Kolkata
               </p>
               <p style={{ fontSize: "1.2rem", color: "#2ae98d" }}>
-                September 2023 - June 2024
+                September 2023 -
               </p>
               <ul>
                 <li>
@@ -75,6 +75,11 @@ export default function EducationSection() {
                   My daily activities include assisting team members on their
                   respective sprint features, learning about customizations in
                   D365 and building solutions for the business.
+                </li>
+                <li>
+                  Using React to extend and implement the frontend capabilites
+                  of D365 as per the business requirements, using Fluent UI
+                  library as well.
                 </li>
               </ul>
             </div>

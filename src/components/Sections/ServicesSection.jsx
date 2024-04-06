@@ -30,7 +30,7 @@ export default function ServicesSection() {
                 Can build a mobile app using Flutter framework for cross system
                 applications.
               </p>
-              <p style={{ marginTop: "0.5rem" }}>3 projects</p>
+              <p style={{ marginTop: "0.5rem" }}>4 projects</p>
             </div>
           </li>
           <li>
@@ -42,7 +42,7 @@ export default function ServicesSection() {
                 Java being my primary programming language, I can build an
                 enterprise/ B2B applications using Java.
               </p>
-              <p style={{ marginTop: "0.5rem" }}>1 projects</p>
+              <p style={{ marginTop: "0.5rem" }}>3 projects</p>
             </div>
           </li>
           <li>

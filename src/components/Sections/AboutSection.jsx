@@ -9,15 +9,13 @@ export default function AboutSection() {
         </button>
         <h3 className="intro">A bit about me,</h3>
         <p className="details">
-          I'm from Patna, Bihar and I'm currently pursuing a degree in B.Tech
-          from{" "}
-          <a href="https://kiit.ac.in/" target="_blank">
-            KIIT University, Bhubaneswar
-          </a>
-          . Scrolling through all these mobile apps and websites created a spark
-          in me to create these awesome apps since 2018. So, I started my
-          journey in software development field, learning programming languages,
-          new frameworks and new concepts in engineering.
+          I'm from Patna, Bihar and I'm currently working as an intern at
+          Lexmark International, Kolkata. Meanwhile I'm also pursuing a degree
+          in B.Tech from KIIT University, Bhubaneswar. Scrolling through all
+          these mobile apps and websites created a spark in me to create these
+          awesome apps since 2018. So, I started my journey in software
+          development field, learning programming languages, new frameworks and
+          new concepts in engineering.
         </p>
         <p className="details">
           {" "}
