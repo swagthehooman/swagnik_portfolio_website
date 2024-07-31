@@ -8,11 +8,11 @@ export default function IntroSection() {
           Introduction
         </button>
         <h3 className="intro">
-          Hii, I'm <span>Swagnik Das</span>, A fresher software developer.
+          Hii, I'm <span>Swagnik Das</span>, A Software developer.
         </h3>
         <p className="details">
-          I'm a student, seeking a role in software development field to enhance
-          and implement my skills in a collaborative working environment.
+          I'm seeking a role in software development field to enhance and
+          implement my skills in a collaborative working environment.
         </p>
         <p className="details">
           I love to create and code beautiful and simple designs. I can

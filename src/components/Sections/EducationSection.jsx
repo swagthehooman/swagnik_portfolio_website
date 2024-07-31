@@ -12,10 +12,11 @@ export default function EducationSection() {
           <li>
             <div className="resume-list-item">
               <p style={{ fontSize: "1.2rem", color: "#2ae98d" }}>
-                2020 - Present
+                2020 - 2024
               </p>
               <p style={{ fontSize: "1.5rem", fontWeight: "700" }}>
-                Bachelor in Technology, Computer Science & Engineering
+                Bachelor in Technology, Computer Science & Engineering, with
+                8.88 cgpa
               </p>
               <p>Kalinga Institute of Industial Technology, Bhubaneswar.</p>
             </div>
@@ -51,7 +52,7 @@ export default function EducationSection() {
                 Intern @ Lexmark International, Kolkata
               </p>
               <p style={{ fontSize: "1.2rem", color: "#2ae98d" }}>
-                September 2023 -
+                September 2023 - June 2024
               </p>
               <ul>
                 <li>
@@ -68,18 +69,18 @@ export default function EducationSection() {
                   Used many 3rd party packages for better user experience.
                 </li>
                 <li>
-                  Currently working as a CRM developer, developing solutions on
+                  Also worked as a CRM developer, developing solutions on
                   Microsoft Dynamics 365.
                 </li>
                 <li>
-                  My daily activities include assisting team members on their
+                  My daily activities included assisting team members on their
                   respective sprint features, learning about customizations in
                   D365 and building solutions for the business.
                 </li>
                 <li>
-                  Using React to extend and implement the frontend capabilites
-                  of D365 as per the business requirements, using Fluent UI
-                  library as well.
+                  Used React to extend and implement the frontend capabilites of
+                  D365 as per the business requirements, using Fluent UI library
+                  as well.
                 </li>
               </ul>
             </div>
