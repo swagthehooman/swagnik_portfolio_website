@@ -20,7 +20,10 @@ export default function ProjectsSection() {
                 Awards and Recognitions Portal (Lexmark)
               </p>
             </div>
-            <img className="project_pic" src=""></img>
+            <img
+              className="project_pic"
+              src="../assets/images/awardingportalPoster.jpg"
+            ></img>
           </div>
           <div className="project_tile">
             <div className="intro_div">
