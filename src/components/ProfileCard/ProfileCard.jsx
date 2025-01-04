@@ -13,7 +13,7 @@ export default function Card() {
         <p className="title">Software developer</p>
       </div>
       <img
-        src="./assets/images/myPic2.jpg"
+        src="./assets/images/profile_pic.jpg"
         alt="Display picture"
         className="profile-image"
       />

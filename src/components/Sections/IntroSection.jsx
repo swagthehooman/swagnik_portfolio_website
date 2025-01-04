@@ -12,11 +12,13 @@ export default function IntroSection() {
         </h3>
         <p className="details">
           I'm seeking a role in software development field to enhance and
-          implement my skills in a collaborative working environment.
+          implement my skills in a collaborative and growing environment.
         </p>
         <p className="details">
-          I love to create and code beautiful and simple designs. I can
-          contribute to a full stack web project and frontend flutter project,
+          Currently, I'm working as a Software developer at Lexmark
+          International, Kolkata, working with different tech stacks like
+          React.js, Azure functions and D365 CRM platform. I can contribute to a
+          full stack projects, with my latest practical knowledge in the field,
           as per the requirements.
         </p>
         <a

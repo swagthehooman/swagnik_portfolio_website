@@ -17,6 +17,19 @@ export default function ProjectsSection() {
                   fontWeight: "700",
                 }}
               >
+                Awards and Recognitions Portal (Lexmark)
+              </p>
+            </div>
+            <img className="project_pic" src=""></img>
+          </div>
+          <div className="project_tile">
+            <div className="intro_div">
+              <p
+                style={{
+                  fontSize: "1.5rem",
+                  fontWeight: "700",
+                }}
+              >
                 Country Glossary
               </p>
               <a
